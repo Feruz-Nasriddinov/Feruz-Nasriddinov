@@ -8,7 +8,7 @@ An aspiring Backend developer looking for project ideas and people to collaborat
 
 ### 🛠️ Tech Stack & Tools
  
-[![](https://skillicons.dev/icons?i=python,django,aws,linux,postgresql,mysql,mongodb,redis,git,githubactions,github,docker,kubernetes)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,django,aws,linux,postgresql,mysql,mongodb,redis,git,githubactions,github,docker,kubernetes,elasticsearch)](https://skillicons.dev)
  
 ---
  
