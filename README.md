@@ -16,7 +16,7 @@ An aspiring Backend developer looking for project ideas and people to collaborat
  
 - My most productive hours are somewhere between evening and midnight
 - Building from Uzbekistan
-- Currently learning Golang
+- Currently learning AI engineering
   
 ---
  
