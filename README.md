@@ -1,12 +1,12 @@
 # Hey, I'm Feruz
  
-### 🖥️ About Me
+### About Me
  
 An aspiring Backend developer looking for project ideas and people to collaborate with, currently building with Python, Django, Django Rest Framework and PostgreSQL.
  
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
  
 [![](https://skillicons.dev/icons?i=python,django,golang,aws,linux,postgresql,mysql,mongodb,redis,git,githubactions,github,docker,kubernetes,elasticsearch)](https://skillicons.dev)
  
