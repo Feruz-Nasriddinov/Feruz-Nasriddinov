@@ -9,6 +9,8 @@
 
 ### Tech Stack
 
+---
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,golang,aws,linux,postgresql,mysql,sqlite,mongodb,redis,git,githubactions,docker,kubernetes&perline=7" />
@@ -20,6 +22,8 @@
 ---
 
 ### What I'm working on
+
+---
 
 - **Veelcode**: coding practice built on real corporate-style problems instead of LeetCode puzzles
 - **Relly**: helps students, immigrants and professionals find safe jobs and housing abroad before they move
