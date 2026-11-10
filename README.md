@@ -21,7 +21,7 @@ Relly helps students, immigrants, and professionals find safe jobs and housing a
 ## Fun Facts
 - My favorite sport is Chess
 - I enjoy coffee more than I probably should
-- I have an IELTS score of 8.5
+- I like collecting football jerseys
 
 ---
 
