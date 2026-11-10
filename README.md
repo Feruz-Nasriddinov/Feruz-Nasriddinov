@@ -23,6 +23,8 @@ Relly helps students, immigrants, and professionals find safe jobs and housing a
 - I enjoy coffee more than I probably should
 - I have an IELTS score of 8.5
 
+---
+
 ### 📬 How to reach me
 
 [LinkedIn](https://www.linkedin.com/in/feruz-nasriddinov-271b7a3a3/) · [Instagram](https://instagram.com/th_rimu) · [Telegram](https://t.me/Th_Rimu)
