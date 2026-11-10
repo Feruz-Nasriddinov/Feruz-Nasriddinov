@@ -1,35 +1,27 @@
-<h1 align="center">Hey, I'm Feruz</h1>
+<h1 align="center">Hi, I'm Feruz</h1>
 
 <p align="center">
-  Backend developer from Uzbekistan.<br>
-  Currently building with Python, Django, and Django Rest Framework.
+Backend developer<br>
 </p>
 
----
+## About Me
 
-### Tech Stack
+I'm a backend developer based in Uzbekistan. I build and manage the part of a product you never see: APIs, databases, background jobs, and the cloud setup that runs them.
 
----
+My main stack is Python, Django REST Framework and AWS.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,golang,aws,linux,postgresql,mysql,sqlite,mongodb,redis,git,githubactions,docker,kubernetes&perline=7" />
-  </a>
-</p>
+## What I'm Building
 
-<p align="center">Also: Django REST Framework, Celery</p>
+### Veelcode
+Veelcode is a coding practice platform that replaces LeetCode-style puzzles with real corporate-style tasks. You get real project files and have to fix a bug or add a feature, like you would on the job.
 
----
+### Relly
+Relly helps students, immigrants, and professionals find safe jobs and housing abroad before they move. Employers and landlords post listings, and every listing is approved by an admin before it goes live. I'm building the backend.
 
-### What I'm working on
-
----
-
-- **Veelcode**: coding practice built on real corporate-style problems instead of LeetCode puzzles
-- **Relly**: helps students, immigrants and professionals find safe jobs and housing abroad before they move
-- Currently learning microservices
-
----
+## Fun Facts
+- My favorite sport is Chess
+- I enjoy coffee more than I probably should
+- I have an IELTS score of 8.5
 
 ### 📬 How to reach me
 
