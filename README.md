@@ -27,6 +27,6 @@ Relly helps students, immigrants, and professionals find safe jobs and housing a
 
 ### 📬 How to reach me
 
-[LinkedIn](https://www.linkedin.com/in/feruz-nasriddinov-271b7a3a3/) · [Instagram](https://instagram.com/th_rimu) · [Telegram](https://t.me/Th_Rimu)
+[LinkedIn](https://www.linkedin.com/in/feruz-nasriddinov-271b7a3a3/) · [Instagram](https://instagram.com/feruz_nasriddinov25) · [Telegram](https://t.me/Th_Rimu)
 
 ![catppuccin footer](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
